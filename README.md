@@ -9,9 +9,11 @@ Open the cmd in the windows OS.
 C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmiregistry
 
 Then, start the servers of bank and movie.
+## 
 C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.BankServer
 ## You will get the result as
 Binding BankImpl object b as TestBank
+## 
 C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.MovieServer
 ## You will get the result as
 Binding MovieImpl object m name as Test Movie

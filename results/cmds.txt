@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmiregistry
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.BankServer
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.MovieServer
+
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmic movieonline.BankImpl
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmic movieonline.MovieImpl
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmic chatserver.ChatImpl
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmic movieonline.BankImpl movieonline.MovieImpl chatserver.ChatImpl
+
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmiregistry
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.BankServer
+Binding BankImpl object b as TestBank
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.MovieServer
+Binding MovieImpl object m name as Test Movie
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy chatserver.ChatServer
+Starting Chat Server
+Chat server started...
+
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.RMIClient
+
+C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.RMIMovieSeller
+

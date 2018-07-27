@@ -10,12 +10,12 @@ C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>rmiregistry
 
 Then, start the servers of bank and movie.
 C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.BankServer
-#You will get the result as
+##You will get the result as
 Binding BankImpl object b as TestBank
 C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy movieonline.MovieServer
-#You will get the result as
+##You will get the result as
 Binding MovieImpl object m name as Test Movie
-# And start the chat server
+## And start the chat server
 C:\Users\Admin\Documents\NetBeansProjects\MovieOnline\build\classes>java -Djava.security.policy=movieonline.policy chatserver.ChatServer
 Starting Chat Server
 Chat server started...

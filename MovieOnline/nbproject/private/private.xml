@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/MovieServer.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/MovieInfo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/Movie.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatclient/ChatInterface.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/RMIClient.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatclient/Message.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/TransInfo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatclient/ChatView.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/Bank.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatserver/ChatInterface.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatserver/Message.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/OrderInfo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/MovieImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatserver/ChatImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/BankImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/UsrInfo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/chatserver/ChatServer.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/BankServer.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/MovieOnline/src/movieonline/RMIMovieSeller.java</file>
+        </group>
+    </open-files>
+</project-private>
